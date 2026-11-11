@@ -10,4 +10,23 @@ Sail the boat with recklessness out into the open. Crash the sky with your coura
 
 <br>
 
+### Systems
+
+**KryWire** · Checks your live site from the outside  
+**Kry4help** · Watches it around the clock, from your own server  
+
+**Bearing** · Finds security holes  
+**Ghost** · Tests your app as your users  
+**BugDog** · Hunts down bugs  
+**Oracle** · Proposes fixes, privately  
+**Hisn** · Asks before anything changes  
+
+**Veil** · Checks what reaches remote AI  
+**Clear 5** · Shows what leaves your Mac  
+**WindShell** · Keeps everything on your Mac  
+**PeakSilica** · Maps where personal data goes  
+**Arc** · Seals a record of what happened
+
+<br>
+
 [kastlefive.dev](https://kastlefive.dev)  ·  [activepray.com](https://activepray.com)
